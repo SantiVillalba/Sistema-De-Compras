@@ -1,0 +1,80 @@
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\Sistema.dll.config
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\Sistema.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\Sistema.pdb
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\Sistema.xml
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\csc.exe
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\csc.exe.config
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\csc.rsp
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\csi.exe
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\csi.rsp
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\System.AppContext.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\vbc.exe
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\vbc.exe.config
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\vbc.rsp
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.Resources.resources
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.vbproj.CopyComplete
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.dll
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.xml
+C:\Users\Santi\Desktop\ProgramacionIV\Proyectos Prog IV\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\Sistema.dll.config
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\Sistema.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\Sistema.pdb
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\Sistema.xml
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\csc.exe
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\csc.exe.config
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\csc.rsp
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\csi.exe
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\csi.rsp
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\System.AppContext.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\vbc.exe
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\vbc.exe.config
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\vbc.rsp
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.Resources.resources
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.vbproj.CopyComplete
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.dll
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.xml
+C:\Users\Santi\Desktop\ProgramacionIV\tpfinal-sistema\Sistema\obj\Debug\Sistema.pdb

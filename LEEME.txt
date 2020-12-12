@@ -1,0 +1,4 @@
+La BD ya tiene algunos datos cargados:
+
+La base de datos tiene 8 productos cargados de ejemplo.
+La contraseña y el usuario del administradores son usuario: ADMIN contraseña: admin
